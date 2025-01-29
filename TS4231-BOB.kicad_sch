@@ -1448,7 +1448,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05B104KO5NNNC.pdf"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_24.pdf"
 			(at 113.03 54.61 0)
 			(effects
 				(font
@@ -1475,7 +1475,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr #" "CL05B104KO5NNNC"
+		(property "Mfr #" "CC0603KRX7R7BB104"
 			(at 113.03 54.61 0)
 			(effects
 				(font
@@ -1542,7 +1542,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.samsungsem.com/kr/support/product-search/mlcc/CL05A105KP5NNNC.jsp"
+		(property "Datasheet" "https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL10B105KO8NNN"
 			(at 113.03 60.96 0)
 			(effects
 				(font
@@ -1569,7 +1569,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr #" "CL05A105KP5NNNC"
+		(property "Mfr #" "CL10B105KO8NNNC"
 			(at 113.03 60.96 0)
 			(effects
 				(font
@@ -1663,7 +1663,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr #" "ERJ-2RKF1502X"
+		(property "Mfr #" "ERJ-3EKF1502V"
 			(at 156.21 62.23 0)
 			(effects
 				(font
@@ -1912,6 +1912,15 @@
 			)
 		)
 		(property "Description" "2nd Generation Light to Digital Converter (Envelope and Data)"
+			(at 139.7 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr #" "TS4231"
 			(at 139.7 49.53 0)
 			(effects
 				(font

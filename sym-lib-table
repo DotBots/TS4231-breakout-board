@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TS4231-BOB")(type "KiCad")(uri "${KIPRJMOD}/lib/TS4231-BOB.kicad_sym")(options "")(descr ""))
+)
